@@ -1,0 +1,7 @@
+NumericFeature1,NumericFeature2,CategoricalFeature
+1,7,A
+2,8,B
+,9,
+4,10,A
+5,11,B
+6,50,C
